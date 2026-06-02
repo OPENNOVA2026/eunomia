@@ -1,0 +1,589 @@
+{
+  "type": "tweet",
+  "id": "2016201154770735166",
+  "url": "https://x.com/undefined/status/2016201154770735166",
+  "twitterUrl": "https://twitter.com/undefined/status/2016201154770735166",
+  "text": "RT @JoseValds13: No me extraña que llamen facha a Iker Jiménez.\n\nPorque pudiendo llevar a Sarah Santaolalla, Rosa Villacastín o Gonzalo Mir…",
+  "fullText": "RT @JoseValds13: No me extraña que llamen facha a Iker Jiménez.\n\nPorque pudiendo llevar a Sarah Santaolalla, Rosa Villacastín o Gonzalo Mir…",
+  "source": "Twitter for Android",
+  "retweetCount": 6740,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "createdAt": "Tue Jan 27 17:26:29 +0000 2026",
+  "lang": "es",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2016201154770735166",
+  "author": {
+    "type": "user",
+    "url": "https://x.com/undefined",
+    "twitterUrl": "https://twitter.com/undefined",
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false
+  },
+  "extendedEntities": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1238877480913637376",
+        "indices": [3, 15],
+        "name": "Author Name Retweet",
+        "screen_name": "authorNameRetweet"
+      }
+    ]
+  },
+  "isRetweet": true,
+  "retweet": {
+    "type": "tweet",
+    "id": "2015910097499660557",
+    "text": "No me extraña que llamen facha a Iker Jiménez.\n\nPorque pudiendo llevar a Sarah Santaolalla, Rosa Villacastín o Gonzalo Miró a explicar la tragedia de los trenes de Adamuz, no se le ocurre otra cosa que llevar a ingenieros, catedráticos y expertos en la materia…\n#Horizonte https://t.co/YyIEFyCz6v",
+    "source": "",
+    "retweetCount": 6740,
+    "replyCount": 396,
+    "likeCount": 24478,
+    "quoteCount": 49,
+    "viewCount": 319723,
+    "createdAt": "Mon Jan 26 22:09:55 +0000 2026",
+    "lang": "es",
+    "bookmarkCount": 397,
+    "possiblySensitive": false,
+    "author": {
+      "type": "user",
+      "userName": "authorNameRetweet",
+      "url": "https://x.com/authorNameRetweet",
+      "twitterUrl": "https://twitter.com/authorNameRetweet",
+      "id": "1238877480913637376",
+      "name": "Author Name Retweet",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1396569696783278080/h9fnuEIB_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1238877480913637376/1621803731",
+      "description": "Liberal, madrileño y madridista (y de Arbeloa). Majete, a pesar de todo.",
+      "location": "Madrid ",
+      "followers": 3072,
+      "following": 2705,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Mar 14 17:20:02 +0000 2020",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 31738,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2462,
+      "statusesCount": 12871,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": ["1634575428537942016"]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/YyIEFyCz6v",
+          "expanded_url": "https://x.com/JoseValds13/status/2015910097499660557/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 314,
+                  "y": 51
+                }
+              ]
+            }
+          },
+          "id_str": "2015910092302950400",
+          "indices": [273, 296],
+          "media_key": "3_2015910092302950400",
+          "media_results": {
+            "result": {
+              "media_key": "3_2015910092302950400"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G_nzjFbXoAAVget.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 633,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 636,
+                "x": 332,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 558,
+                "x": 371,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 318,
+                "x": 491,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 636,
+            "width": 1131
+          },
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YyIEFyCz6v"
+        },
+        {
+          "display_url": "pic.x.com/YyIEFyCz6v",
+          "expanded_url": "https://x.com/JoseValds13/status/2015910097499660557/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 70,
+                  "y": 69
+                }
+              ]
+            }
+          },
+          "id_str": "2015910092328013825",
+          "indices": [273, 296],
+          "media_key": "3_2015910092328013825",
+          "media_results": {
+            "result": {
+              "media_key": "3_2015910092328013825"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G_nzjFhWEAEGOcU.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 633,
+                "w": 1131,
+                "x": 0,
+                "y": 3
+              },
+              {
+                "h": 636,
+                "w": 636,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 558,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 318,
+                "x": 95,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 636,
+            "width": 1131
+          },
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YyIEFyCz6v"
+        }
+      ]
+    },
+    "place": {},
+    "card": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [262, 272],
+          "text": "Horizonte"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.x.com/YyIEFyCz6v",
+          "expanded_url": "https://x.com/JoseValds13/status/2015910097499660557/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 523,
+                  "y": 85
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 96,
+                  "w": 96,
+                  "x": 314,
+                  "y": 51
+                }
+              ]
+            }
+          },
+          "id_str": "2015910092302950400",
+          "indices": [273, 296],
+          "media_key": "3_2015910092302950400",
+          "media_results": {
+            "result": {
+              "media_key": "3_2015910092302950400"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G_nzjFbXoAAVget.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 633,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 636,
+                "x": 332,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 558,
+                "x": 371,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 318,
+                "x": 491,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 636,
+            "width": 1131
+          },
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YyIEFyCz6v"
+        },
+        {
+          "display_url": "pic.x.com/YyIEFyCz6v",
+          "expanded_url": "https://x.com/JoseValds13/status/2015910097499660557/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 117,
+                  "y": 115
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 84,
+                  "w": 84,
+                  "x": 70,
+                  "y": 69
+                }
+              ]
+            }
+          },
+          "id_str": "2015910092328013825",
+          "indices": [273, 296],
+          "media_key": "3_2015910092328013825",
+          "media_results": {
+            "result": {
+              "media_key": "3_2015910092328013825"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G_nzjFhWEAEGOcU.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 633,
+                "w": 1131,
+                "x": 0,
+                "y": 3
+              },
+              {
+                "h": 636,
+                "w": 636,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 558,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 318,
+                "x": 95,
+                "y": 0
+              },
+              {
+                "h": 636,
+                "w": 1131,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 636,
+            "width": 1131
+          },
+          "sizes": {
+            "large": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "medium": {
+              "h": 636,
+              "resize": "fit",
+              "w": 1131
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YyIEFyCz6v"
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "isPinned": false,
+    "url": "https://x.com/1238877480913637376/status/2015910097499660557",
+    "twitterUrl": "https://twitter.com/1238877480913637376/status/2015910097499660557"
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}

@@ -1,0 +1,288 @@
+{
+  "type": "tweet",
+  "id": "2016264998754926900",
+  "url": "https://x.com/RVinsent0/status/2016264998754926900",
+  "twitterUrl": "https://twitter.com/RVinsent0/status/2016264998754926900",
+  "text": "RT @pedropcelis: 🔴🔴TREMENDO lo que publica hoy @okdiario: La empresa que supervisó la soldadura rota de Adamuz irá a juicio por amañar cont…",
+  "fullText": "RT @pedropcelis: 🔴🔴TREMENDO lo que publica hoy @okdiario: La empresa que supervisó la soldadura rota de Adamuz irá a juicio por amañar cont…",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1322,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "createdAt": "Tue Jan 27 21:40:10 +0000 2026",
+  "lang": "es",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2016264998754926900",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "authorUserName",
+    "url": "https://x.com/authorUserName",
+    "twitterUrl": "https://twitter.com/authorUserName",
+    "id": "1573860418702934017",
+    "name": "author user name",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1957786489334509568/tUZ3KRu5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1573860418702934017/1755011148",
+    "description": "",
+    "followers": 73,
+    "following": 129,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 25 02:22:34 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10585,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 1016,
+    "statusesCount": 11801,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1458192955",
+        "indices": [3, 15],
+        "name": "user mention 1",
+        "screen_name": "userMention1"
+      },
+      {
+        "id_str": "3439292716",
+        "indices": [47, 56],
+        "name": "user mention 2",
+        "screen_name": "userMention2"
+      }
+    ]
+  },
+  "isRetweet": true,
+  "retweet": {
+    "type": "tweet",
+    "id": "2016231975607017533",
+    "text": "🔴🔴TREMENDO lo que publica hoy @okdiario: La empresa que supervisó la soldadura rota de Adamuz irá a juicio por amañar contratos en el ‘caso 3%’\n\n‼️@irenetabera en @eltiempojusto: “Estamos dando el mantenimiento de las vías ferroviarias a empresas corruptas” https://t.co/a4XdgqlrrA",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1322,
+    "replyCount": 23,
+    "likeCount": 2887,
+    "quoteCount": 18,
+    "viewCount": 72026,
+    "createdAt": "Tue Jan 27 19:28:57 +0000 2026",
+    "lang": "es",
+    "bookmarkCount": 77,
+    "possiblySensitive": false,
+    "author": {
+      "type": "user",
+      "url": "https://x.com/undefined",
+      "twitterUrl": "https://twitter.com/undefined",
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/a4XdgqlrrA",
+          "expanded_url": "https://x.com/pedropcelis/status/2016231975607017533/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2016231908317753344",
+          "indices": [258, 281],
+          "media_key": "13_2016231908317753344",
+          "media_results": {
+            "result": {
+              "media_key": "13_2016231908317753344"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2016231908317753344/img/_pgrfG2ubpfJFgkM.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 720,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/a4XdgqlrrA",
+          "video_info": {
+            "aspect_ratio": [16, 9],
+            "duration_millis": 28508,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/pl/Q_MgDB3XGLFjadGu.m3u8?tag=21&v=289"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/480x270/0Zb-_rDNxrw3Fi2Y.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/640x360/R8nEAv4HVOox4e6K.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/1280x720/RTevwsP1Ayv5Rid_.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "place": {},
+    "card": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/a4XdgqlrrA",
+          "expanded_url": "https://x.com/pedropcelis/status/2016231975607017533/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2016231908317753344",
+          "indices": [258, 281],
+          "media_key": "13_2016231908317753344",
+          "media_results": {
+            "result": {
+              "media_key": "13_2016231908317753344"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2016231908317753344/img/_pgrfG2ubpfJFgkM.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 720,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/a4XdgqlrrA",
+          "video_info": {
+            "aspect_ratio": [16, 9],
+            "duration_millis": 28508,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/pl/Q_MgDB3XGLFjadGu.m3u8?tag=21&v=289"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/480x270/0Zb-_rDNxrw3Fi2Y.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/640x360/R8nEAv4HVOox4e6K.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2016231908317753344/vid/avc1/1280x720/RTevwsP1Ayv5Rid_.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "3439292716",
+          "indices": [30, 39],
+          "name": "User Mention 1",
+          "screen_name": "userMention1"
+        },
+        {
+          "id_str": "400190569",
+          "indices": [147, 159],
+          "name": "User Mention 2",
+          "screen_name": "userMention2"
+        },
+        {
+          "id_str": "1668657421940662273",
+          "indices": [163, 177],
+          "name": "user metnion 3",
+          "screen_name": "userMention3"
+        }
+      ]
+    },
+    "url": "https://x.com/undefined/status/2016231975607017533",
+    "twitterUrl": "https://twitter.com/undefined/status/2016231975607017533"
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}

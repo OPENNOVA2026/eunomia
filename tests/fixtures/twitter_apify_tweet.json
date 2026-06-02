@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "2014246650001186961",
+  "url": "https://x.com/jmlujanm/status/2014246650001186961",
+  "twitterUrl": "https://twitter.com/jmlujanm/status/2014246650001186961",
+  "text": "Accidente de tren en Córdoba y Barcelona, última hora, en directo | Los maquinistas de Rodalies paralizan el servicio de Rodalies hasta que Renfe no garantice sus demandas de seguridad\n\nhttps://t.co/Qhl4Rik51t",
+  "fullText": "Accidente de tren en Córdoba y Barcelona, última hora, en directo | Los maquinistas de Rodalies paralizan el servicio de Rodalies hasta que Renfe no garantice sus demandas de seguridad\n\nhttps://t.co/Qhl4Rik51t",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 22,
+  "createdAt": "Thu Jan 22 07:59:58 +0000 2026",
+  "lang": "es",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2014246650001186961",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "authorUserName",
+    "url": "https://x.com/authorUserName",
+    "twitterUrl": "https://twitter.com/authorUserName",
+    "id": "826913078537310210",
+    "name": "Author User name",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1281679916875079680/qPZb_normal.jpg",
+    "description": "La democracia plena en nuestro pais, y la libertad e igualdad de todos los españoles, son asuntos prioritarios e irrenunciables.",
+    "location": "Murcia, España",
+    "followers": 3896,
+    "following": 166,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 01 22:00:16 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 105,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 485,
+    "statusesCount": 268296,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "elmundo.es/espana/2026/01…",
+        "expanded_url": "https://www.elmundo.es/espana/2026/01/22/6971bea91ee97cbdb6394fd3-directo.html",
+        "url": "https://t.co/Qhl4Rik51t",
+        "indices": [186, 209]
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}

@@ -1,0 +1,309 @@
+{
+  "type": "tweet",
+  "id": "2014246640744313212",
+  "url": "https://x.com/dlbwond_22/status/2014246640744313212",
+  "twitterUrl": "https://twitter.com/dlbwond_22/status/2014246640744313212",
+  "text": "RT @carlosadams: Eso es Franco meneando el tren desde el más allá, ademas Oscar Puente es ministro de transportes no de trenes. https://t.c…",
+  "fullText": "RT @carlosadams: Eso es Franco meneando el tren desde el más allá, ademas Oscar Puente es ministro de transportes no de trenes. https://t.c…",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1136,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "createdAt": "Thu Jan 22 07:59:56 +0000 2026",
+  "lang": "es",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2014246640744313212",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "authorUserName",
+    "url": "https://x.com/authorUserName",
+    "twitterUrl": "https://twitter.com/authorUserName",
+    "id": "1803772036801495040",
+    "name": "hye saw ateez‼️",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944348086391762944/RzdHBAe5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1803772036801495040/1743360278",
+    "description": "sysadmin & car lover🏎️",
+    "location": "･ﾟ✧wonderland",
+    "followers": 144,
+    "following": 707,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 20 12:49:05 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2884,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 26,
+    "statusesCount": 2496,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": []
+  },
+  "extendedEntities": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1252731134955393025",
+        "name": "User Mention 1",
+        "screen_name": "UserMention1",
+        "indices": [3, 15]
+      }
+    ]
+  },
+  "isRetweet": true,
+  "retweet": {
+    "type": "tweet",
+    "id": "2013611415324475805",
+    "text": "Eso es Franco meneando el tren desde el más allá, ademas Oscar Puente es ministro de transportes no de trenes. https://t.co/y8U2B85CSs",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1136,
+    "replyCount": 93,
+    "likeCount": 9471,
+    "quoteCount": 15,
+    "viewCount": 120671,
+    "createdAt": "Tue Jan 20 13:55:47 +0000 2026",
+    "lang": "es",
+    "bookmarkCount": 242,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "userNameRetweet",
+      "url": "https://x.com/userNameRetweet",
+      "twitterUrl": "https://twitter.com/userNameRetweet",
+      "id": "1252731134955393025",
+      "name": "User Name Retweet",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1886018181946380290/L2ek8tYr_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1252731134955393025/1713272829",
+      "description": "Consultor de negocios basado. Mis empresas y clientes tienen mejores resultados que con una Big Four además te ahorras pagar becarios a 300€ la hora.",
+      "location": "Internet Money 👉",
+      "followers": 26109,
+      "following": 255,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Apr 21 22:49:22 +0000 2020",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "news.co",
+              "expanded_url": "https://news.co",
+              "url": "https://t.co/aRj96",
+              "indices": [0, 23]
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 15051,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3594,
+      "statusesCount": 14603,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": ["1798312575722987935"]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/y8U2B85CSs",
+          "expanded_url": "https://x.com/carlosadams/status/2013611415324475805/video/1",
+          "id_str": "2013611105902264321",
+          "indices": [111, 134],
+          "media_key": "13_2013611105902264321",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2013611105902264321/img/PFReUM20KEQ4sWIc.jpg",
+          "type": "video",
+          "url": "https://t.co/y8U2B85CSs",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1150,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 674,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 382,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2084,
+            "width": 1170,
+            "focus_rects": []
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": {
+            "aspect_ratio": [585, 1042],
+            "duration_millis": 16673,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/pl/R35WIRIis2Ynjljr.m3u8?tag=21&v=cfc"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/320x568/-Z7vqc9zuow4zUw0.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/480x854/k-pXZVLr34xO9vHL.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/720x1282/rE59REe-atND9Pgu.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/1170x2084/OXGQqC-LAf47CPHz.mp4?tag=21"
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "13_2013611105902264321"
+            }
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/y8U2B85CSs",
+          "expanded_url": "https://x.com/carlosadams/status/2013611415324475805/video/1",
+          "id_str": "2013611105902264321",
+          "indices": [111, 134],
+          "media_key": "13_2013611105902264321",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2013611105902264321/img/PFReUM20KEQ4sWIc.jpg",
+          "type": "video",
+          "url": "https://t.co/y8U2B85CSs",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1150,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 674,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 382,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2084,
+            "width": 1170,
+            "focus_rects": []
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": {
+            "aspect_ratio": [585, 1042],
+            "duration_millis": 16673,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/pl/R35WIRIis2Ynjljr.m3u8?tag=21&v=cfc"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/320x568/-Z7vqc9zuow4zUw0.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/480x854/k-pXZVLr34xO9vHL.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/720x1282/rE59REe-atND9Pgu.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2013611105902264321/vid/avc1/1170x2084/OXGQqC-LAf47CPHz.mp4?tag=21"
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "13_2013611105902264321"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}
